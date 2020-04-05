@@ -33,6 +33,8 @@ defaults:
 
 remote_theme			: "mmistakes/minimal-mistakes@4.19.1"
 minimal_mistakes_skin	: "dark"
+paginate				: 5 # amount of posts to show
+paginate_path			: /page:num/
 
 locale					: "en-US"
 title					: "Carlos Loza"
@@ -60,7 +62,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/carlosloza"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-robot"
       url: "https://scholar.google.com/citations?user=D8EGtrMAAAAJ&hl=en&oi=ao"
 
 # Site Footer
