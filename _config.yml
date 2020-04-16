@@ -62,8 +62,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/carlosloza"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-robot"
+      icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.com/citations?user=D8EGtrMAAAAJ&hl=en&oi=ao"
+    - label: "Research Gate"
+      icon: "ai ai-researchgate-square"
+      url: "https://www.researchgate.net/profile/Carlos_Loza"
 
 # Site Footer
 footer:
@@ -83,12 +86,10 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+    - label: "Google scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://google.com"
 
-# Build settings
-#theme: minima
 
 # Plugins (previously gems:)
 plugins:
