@@ -1,6 +1,0 @@
----
-title:  "Welcome!"
-date:   2021-03-11 11:08:00 -0500
-categories: welcome
----
-This is a test

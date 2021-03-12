@@ -1,7 +1,7 @@
 var store = [{
         "title": "Welcome!",
-        "excerpt":"This is a test  ","categories": ["welcome"],
+        "excerpt":"My name is Carlos and I’m currently a Machine Learning Scientist at the Colgin Lab in the University of Texas at Austin.  ","categories": [],
         "tags": [],
-        "url": "/welcome/update/",
+        "url": "/2021/03/11/welcome.html",
         "teaser": null
       }]
