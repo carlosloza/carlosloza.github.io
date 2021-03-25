@@ -1,11 +1,13 @@
 # main links
 main:
   - title: "Home"
-    url: /about/
+    url: /
   - title: "About"
     url: /about/
+  - title: "Publications"
+    url: /publications/
   - title: "CV"
-    url: /assets/CV/LozaCV.pdf
+    url: /CV/
   #- title: "Something"
   #  url: /about/
     #url: /assets/CV/LozaCV.pdf

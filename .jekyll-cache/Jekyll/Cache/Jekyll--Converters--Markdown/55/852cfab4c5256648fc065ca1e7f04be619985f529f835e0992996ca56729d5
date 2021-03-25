@@ -1,0 +1,27 @@
+I"í<h1 id="machine-learning">Machine Learning</h1>
+
+<h2 id="probabilistic-modeling--deep-learning">Probabilistic Modeling + Deep Learning</h2>
+<ul>
+  <li><a href="https://arxiv.org/pdf/2010.08641.pdf" target="_blank"><font size="4">Deep Neural Dynamic Bayesian Networks applied to EEG sleep spindles modeling</font></a> <font size="4">(white paper)</font></li>
+</ul>
+
+<h2 id="computer-vision">Computer Vision</h2>
+
+<h3 id="sparse-coding--robustness">Sparse Coding + Robustness</h3>
+<ul>
+  <li><a href="https://peerj.com/articles/cs-192/" target="_blank"><font size="4">RobOMP: Robust variants of Orthogonal Matching Pursuit for sparse representations</font></a> <font size="4">(open access)</font></li>
+</ul>
+
+<h3 id="dictionary-learning--robustness">Dictionary Learning + Robustness</h3>
+<ul>
+  <li><a href="https://ieeexplore.ieee.org/document/8988048" target="_blank"><font size="4">Robust Variants of Dictionary Learning Exploiting M-Estimators</font></a> <br />
+<a href="/assets/publications/Loza_Chilecon2019.pdf" target="_blank"><font size="4">(author's copy)</font></a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-030-33509-0_79" target="_blank"><font size="4">A Robust Fully Correntropyâ€“Based Sparse Modeling Alternative to Dictionary Learning</font></a> <br />
+<a href="/assets/publications/Loza_SiPML2019.pdf" target="_blank"><font size="4">(author's copy)</font></a></li>
+</ul>
+
+<h1 id="computational-neuroscience">Computational Neuroscience</h1>
+<ul>
+  <li><a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.01248/full" target="_blank"><font size="4">Discrimination of Movement-Related Cortical Potentials Exploiting Unsupervised Learned Representations From ECoGs</font></a> <font size="4">(open access)</font></li>
+</ul>
+:ET

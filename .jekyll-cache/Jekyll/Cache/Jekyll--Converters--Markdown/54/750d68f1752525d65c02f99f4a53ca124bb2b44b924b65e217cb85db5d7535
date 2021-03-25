@@ -1,0 +1,46 @@
+I"�<h1 id="machine-learning">Machine Learning</h1>
+
+<h2 id="probabilistic-modeling--deep-learning">Probabilistic Modeling + Deep Learning</h2>
+<ul>
+  <li><a href="https://arxiv.org/pdf/2010.08641.pdf" target="_blank"><font size="4">Deep Neural Dynamic Bayesian Networks applied to EEG sleep spindles modeling</font></a> <font size="4">(white paper)</font></li>
+</ul>
+
+<h2 id="computer-vision">Computer Vision</h2>
+
+<h3 id="sparse-coding--robustness">Sparse Coding + Robustness</h3>
+<ul>
+  <li><a href="https://peerj.com/articles/cs-192/" target="_blank"><font size="4">RobOMP: Robust variants of Orthogonal Matching Pursuit for sparse representations</font></a> <font size="4">(open access)</font></li>
+</ul>
+
+<h3 id="dictionary-learning--robustness">Dictionary Learning + Robustness</h3>
+<ul>
+  <li><a href="https://ieeexplore.ieee.org/document/8988048" target="_blank"><font size="4">Robust Variants of Dictionary Learning Exploiting M-Estimators</font></a> <br />
+<a href="/assets/publications/Loza_Chilecon2019.pdf" target="_blank"><font size="4">(author's copy)</font></a></li>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-030-33509-0_79" target="_blank"><font size="4">A Robust Fully Correntropy–Based Sparse Modeling Alternative to Dictionary Learning</font></a>
+<a href="/assets/publications/Loza_SiPML2019.pdf" target="_blank"><font size="4">(author's copy)</font></a></li>
+</ul>
+
+<h1 id="computational-neuroscience">Computational Neuroscience</h1>
+
+<h2 id="brainmachine-interfaces-bmibci">Brain–Machine Interfaces (BMI/BCI)</h2>
+<ul>
+  <li><a href="https://www.frontiersin.org/articles/10.3389/fnins.2019.01248/full" target="_blank"><font size="4">Discrimination of Movement-Related Cortical Potentials Exploiting Unsupervised Learned Representations From ECoGs</font></a> <font size="4">(open access)</font></li>
+  <li><a href="https://ieeexplore.ieee.org/document/8716991" target="_blank"><font size="4">Sparse Wave Packets Discriminate Motor Tasks in EEG–based BCIs</font></a>
+<a href="/assets/publications/Loza_Principe_NER2019.pdf" target="_blank"><font size="4">(author's copy)</font></a></li>
+  <li><a href="https://ieeexplore.ieee.org/document/8512974" target="_blank"><font size="4">The Embedding Transform. A Novel Analysis of Non-Stationarity in the EEG</font></a>
+<a href="/assets/publications/Loza_Principe_EMBC2018.pdf" target="_blank"><font size="4">(author's copy)</font></a></li>
+</ul>
+
+<h2 id="sleep-spindles-eeg--generative-models">Sleep spindles (EEG) + Generative models</h2>
+<ul>
+  <li><a href="https://link.springer.com/chapter/10.1007/978-3-030-20521-8_11" target="_blank"><font size="4">The generalized sleep spindles detector: a generative model approach on single-channel EEGs</font></a>
+<a href="/assets/publications/Loza_Principe_IWANN19.pdf" target="_blank"><font size="4">(author's copy)</font></a></li>
+</ul>
+
+<h1 id="time-series">Time Series</h1>
+<ul>
+  <li><a href="https://ieeexplore.ieee.org/document/8580309" target="_blank"><font size="4">Robust Estimation of Shift–Invariant Patterns Exploiting Correntrop</font></a>
+<a href="/assets/publications/Loza_Principe_ETCM18.pdf" target="_blank"><font size="4">(author's copy)</font></a></li>
+</ul>
+
+:ET
