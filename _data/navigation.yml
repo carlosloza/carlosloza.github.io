@@ -4,9 +4,11 @@ main:
     url: /
   - title: "About"
     url: /about/
+  - title: "Posts"
+    url: /about/
   - title: "Publications"
     url: /publications/
-  - title: "CV"
+  - title: "Resume"
     url: /CV/
   #- title: "Something"
   #  url: /about/

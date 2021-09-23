@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carlos Loza"
+title                    : "carlos-loza.com"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Carlos Loza"
@@ -98,14 +98,14 @@ analytics:
 author:
   name             : "Carlos Loza"
   avatar           : "/assets/images/linkedinpiczoom.jpg"
-  bio              : "Machine learning scientist <br>at the Colgin Lab"
+  bio              : "Data Scientist <br>at One Drop"
   location         : "Austin, TX"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "carlos.loza@utexas.edu"
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/carlosloza"
     - label: "GitHub"
@@ -117,9 +117,10 @@ author:
     - label: "Research Gate"
       icon: "ai ai-researchgate-square"
       url: "https://www.researchgate.net/profile/Carlos_Loza"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/carlitosloza"
+
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/carlitosloza"
     
 
 

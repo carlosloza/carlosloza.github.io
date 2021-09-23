@@ -10,7 +10,7 @@ toc_label: "Publications"
 # Machine Learning
 
 ## Probabilistic Modeling + Deep Learning
-- [<font size="4">Deep Neural Dynamic Bayesian Networks applied to EEG sleep spindles modeling</font>](https://arxiv.org/pdf/2010.08641.pdf){:target="_blank"} <font size="4">(white paper)</font>
+- [<font size="4">Deep Neural Dynamic Bayesian Networks applied to EEG sleep spindles modeling</font>](https://arxiv.org/pdf/2010.08641.pdf){:target="_blank"} <font size="4" color="#ff6666">MICCAI early acceptance (top 15%), spotlight oral presentation</font>
 
 ## Computer Vision
 
@@ -31,6 +31,9 @@ toc_label: "Publications"
 
 
 # Computational Neuroscience
+
+## Neural Decoding (spikes)
+- [<font size="4">Hippocampal place cell sequences differ during correct and error trials in a spatial memory task</font>](https://www.nature.com/articles/s41467-021-23765-x){:target="_blank"} <font size="4">(open access)</font>
 
 ## Brain--Machine Interfaces (BMI/BCI)
 - [<font size="4">Discrimination of Movement-Related Cortical Potentials Exploiting Unsupervised Learned Representations From ECoGs</font>](https://www.frontiersin.org/articles/10.3389/fnins.2019.01248/full){:target="_blank"} <font size="4">(open access)</font>
